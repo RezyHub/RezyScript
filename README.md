@@ -1,0 +1,2 @@
+# RezyScript
+-สคริปต่างๆRezy-
